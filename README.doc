@@ -1,7 +1,7 @@
 # Django-Family
 All About Django & Django Rest Framework
 
-Django==5.0.6
+### Django==5.0.6
 
 djangorestframework==3.15.1
 
